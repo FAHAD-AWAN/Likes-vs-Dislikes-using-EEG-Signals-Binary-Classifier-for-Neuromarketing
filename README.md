@@ -14,20 +14,7 @@ Out of thesee 3 models, Neural Network gave the best performance.
 |    2   | Support Vector Machine |    79.5      |
 |    3   | Neural Network         |    83.2      |
 
- Sr No.
-Model
-Accuracy (%)
-1
-Logistic regression
-77.03
-               2
-Support Vector Machine
-79.5
-3
-Neural Network
-83.2
- 
- 
+
 
 
 
