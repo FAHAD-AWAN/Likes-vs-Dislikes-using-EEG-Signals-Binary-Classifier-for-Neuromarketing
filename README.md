@@ -3,7 +3,9 @@ Binary Classifier for Neuromarketing uses EEG data to classify customer preferen
 Implemented with 3 different classification models: 
 
 (1). Logistic Regression
+
 (2). Support Vector Machine (SVM)
+
 (3). Neural Network
 
 Out of thesee 3 models, Neural Network gave the best performance.  
