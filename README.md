@@ -28,8 +28,10 @@ Tested on 2nd dataset, Logistic Regression performed the best this time:
 
 
 
+1st dataset used was from Mahendra Yadava et al. paper titled "Analysis of EEG signals and its application
+to neuromarketing". 
 
-
+2nd dataset was recorded after practical experiment in the Lab.
 
 
                
